@@ -1,0 +1,218 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!DOCTYPE films SYSTEM "schemas/film_lib.dtd">
+
+<films>
+    <film>
+        <title>Intouchables</title>
+        <genres>
+            <genre>Драма</genre>
+            <genre>Комедия</genre>
+        </genres>
+        <directors>
+            <director>Оливье Накаш</director>
+            <director>Эрик Толедано</director>
+        </directors>
+        <composers>
+            <composer>Людовико Эйнауди</composer>
+        </composers>
+        <cast>
+            <actor>Франсуа Клюзе</actor>
+            <actor>Омар Си</actor>
+            <actor>Анн Ле Ни</actor>
+            <actor>Одри Флёро</actor>
+            <actor>Жозефин де Мо</actor>
+        </cast>
+        <release_date>2011-09-23</release_date>
+        <box_office>426588510</box_office>
+        <rating>14+</rating>
+        <viewers>50000000</viewers>
+        <original_language>Французский</original_language>
+    </film>
+
+    <film>
+        <title>Interstellar</title>
+        <genres>
+            <genre>Фантастика</genre>
+            <genre>Драма</genre>
+            <genre>Приключения</genre>
+        </genres>
+        <directors>
+            <director>Кристофер Нолан</director>
+        </directors>
+        <composers>
+            <composer>Ханс Циммер</composer>
+        </composers>
+        <cast>
+            <actor>Мэттью Макконахи</actor>
+            <actor>Энн Хэтэуэй</actor>
+            <actor>Джессика Честейн</actor>
+            <actor>Маккензи Фой</actor>
+            <actor>Майкл Кейн</actor>
+            <actor>Дэвид Джеси</actor>
+            <actor>Уэс Бентли</actor>
+            <actor>Кейси Аффлек</actor>
+            <actor>Джон Литгоу</actor>
+            <actor>Мэтт Дэймон</actor>
+        </cast>
+        <release_date>2014-10-26</release_date>
+        <box_office>733202212</box_office>
+        <rating>18+</rating>
+        <viewers>15000000</viewers>
+        <original_language>Английский</original_language>
+    </film>
+
+    <film>
+        <title>The Shawshank Redemption</title>
+        <genres>
+            <genre>Драма</genre>
+        </genres>
+        <directors>
+            <director>Фрэнк Дарабонт</director>
+        </directors>
+        <composers>
+            <composer>Томас Ньюман</composer>
+        </composers>
+        <cast>
+            <actor>Тим Роббинс</actor>
+            <actor>Морган Фриман</actor>
+            <actor>Боб Гантон</actor>
+            <actor>Уильям Сэдлер</actor>
+            <actor>Клэнси Браун</actor>
+            <actor>Марк Ролстон</actor>
+            <actor>Джеймс Уитмор</actor>
+            <actor>Джеффри ДеМанн</actor>
+            <actor>Ларри Бранденбург</actor>
+        </cast>
+        <release_date>1994-09-10</release_date>
+        <box_office>28418687</box_office>
+        <rating>18+</rating>
+        <viewers>14000000</viewers>
+        <original_language>Английский</original_language>
+    </film>
+
+    <film>
+        <title>Sen to Chihiro no kamikakushi</title>
+        <genres>
+            <genre>Аниме</genre>
+            <genre>Мультфильм</genre>
+            <genre>Фэнтези</genre>
+            <genre>Приключения</genre>
+            <genre>Семейный</genre>
+        </genres>
+        <directors>
+            <director>Хаяо Миядзаки</director>
+        </directors>
+        <composers>
+            <composer>Дзё Хисаиси</composer>
+        </composers>
+        <cast>
+            <actor>Руми Хиираги</actor>
+            <actor>Мию Ирино</actor>
+            <actor>Мари Нацуки</actor>
+            <actor>Такаси Наито</actor>
+            <actor>Тацуя Гасюин</actor>
+            <actor>Рюносукэ Камики</actor>
+            <actor>Юми Тамаи</actor>
+            <actor>Ё Оидзуми</actor>
+            <actor>Коба Хаяси</actor>
+        </cast>
+        <release_date>2011-09-23</release_date>
+        <box_office>355467076</box_office>
+        <rating>12+</rating>
+        <viewers>35000000</viewers>
+        <original_language>Японский</original_language>
+    </film>
+
+    <film>
+        <title>Léon</title>
+        <genres>
+            <genre>Боевик</genre>
+            <genre>Триллер</genre>
+            <genre>Драма</genre>
+            <genre>Криминал</genre>
+        </genres>
+        <directors>
+            <director>Люк Бессон</director>
+        </directors>
+        <composers>
+            <composer>Эрик Серра</composer>
+        </composers>
+        <cast>
+            <actor>Жан Рено</actor>
+            <actor>Натали Портман</actor>
+            <actor>Гари Олдман</actor>
+            <actor>Дэнни Айелло</actor>
+            <actor>Уилли Уан Блад</actor>
+            <actor>Дон Крич</actor>
+            <actor>Кит А. Гласко</actor>
+            <actor>Рэндольф Скотт</actor>
+            <actor>Майкл Бадалукко</actor>
+        </cast>
+        <release_date>1994-09-14</release_date>
+        <box_office>19881466</box_office>
+        <rating>18+</rating>
+        <viewers>12000000</viewers>
+        <original_language>Французский</original_language>
+    </film>
+
+    <film>
+        <title>Knockin' on Heaven's Door</title>
+        <genres>
+            <genre>Драма</genre>
+            <genre>Комедия</genre>
+            <genre>Криминал</genre>
+        </genres>
+        <directors>
+            <director>Томас Ян</director>
+        </directors>
+        <composers>
+            <composer>Кристиан Неандер</composer>
+            <composer>Франц Пласа</composer>
+            <composer>Жан Плевка</composer>
+        </composers>
+        <cast>
+            <actor>Тиль Швайгер</actor>
+            <actor>Ян Йозеф Лиферс</actor>
+            <actor>Тьерри Ван Вервеке</actor>
+            <actor>Мориц Бляйбтрой</actor>
+            <actor>Хуб Стапель</actor>
+            <actor>Леонард Лансинк</actor>
+            <actor>Ральф Херфорт</actor>
+        </cast>
+        <release_date>1997-02-20</release_date>
+        <box_office>214139</box_office>
+        <rating>18+</rating>
+        <viewers>5000000</viewers>
+        <original_language>Немецкий</original_language>
+    </film>
+
+    <film>
+        <title>Reservoir Dogs</title>
+        <genres>
+            <genre>Криминал</genre>
+            <genre>Драма</genre>
+            <genre>Триллер</genre>
+        </genres>
+        <directors>
+            <director>Квентин Тарантино</director>
+        </directors>
+        <composers>
+            <composer>-</composer>
+        </composers>
+        <cast>
+            <actor>Харви Кейтель</actor>
+            <actor>Тим Рот</actor>
+            <actor>Майкл Мэдсен</actor>
+            <actor>Квентин Тарантино</actor>
+            <actor>Крис Пенн</actor>
+            <actor>Стив Бушеми</actor>
+            <actor>Лоуренс Тирни</actor>
+        </cast>
+        <release_date>1992-01-21</release_date>
+        <box_office>2832029</box_office>
+        <rating>18+</rating>
+        <viewers>1400000</viewers>
+        <original_language>Английский</original_language>
+    </film>
+</films>

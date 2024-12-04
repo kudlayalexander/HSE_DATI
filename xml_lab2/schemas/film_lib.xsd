@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xs:schema xmlns:xs="http://www.w3.org/2001/XMLSchema">
+    <xs:element name="films">
+        <xs:complexType>
+            <xs:sequence>
+                <xs:element name="film" maxOccurs="unbounded">
+                    <xs:complexType>
+                        <xs:sequence>
+                            <xs:element name="title" type="xs:string" />
+                            <xs:element name="genres">
+                                <xs:complexType>
+                                    <xs:sequence>
+                                        <xs:element name="genre" type="xs:string" maxOccurs="unbounded" />
+                                    </xs:sequence>
+                                </xs:complexType>
+                            </xs:element>
+                            <xs:element name="directors">
+                                <xs:complexType>
+                                    <xs:sequence>
+                                        <xs:element name="director" type="xs:string" maxOccurs="unbounded" />
+                                    </xs:sequence>
+                                </xs:complexType>
+                            </xs:element>
+                            <xs:element name="composers">
+                                <xs:complexType>
+                                    <xs:sequence>
+                                        <xs:element name="composer" type="xs:string" maxOccurs="unbounded" />
+                                    </xs:sequence>
+                                </xs:complexType>
+                            </xs:element>
+                            <xs:element name="cast">
+                                <xs:complexType>
+                                    <xs:sequence>
+                                        <xs:element name="actor" type="xs:string" maxOccurs="unbounded" />
+                                    </xs:sequence>
+                                </xs:complexType>
+                            </xs:element>
+                            <xs:element name="release_date" type="xs:date" />
+                            <xs:element name="box_office" type="xs:integer" />
+                            <xs:element name="rating" type="xs:string" />
+                            <xs:element name="viewers" type="xs:integer" />
+                            <xs:element name="original_language" type="xs:string" />
+                        </xs:sequence>
+                    </xs:complexType>
+                </xs:element>
+            </xs:sequence>
+        </xs:complexType>
+    </xs:element>
+</xs:schema>

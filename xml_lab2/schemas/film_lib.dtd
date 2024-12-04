@@ -1,0 +1,16 @@
+<!ELEMENT films (film+)>
+<!ELEMENT film (title, genres, directors, composers, cast, release_date, box_office, rating, viewers, original_language)>
+<!ELEMENT title (#PCDATA)>
+<!ELEMENT genres (genre+)>
+<!ELEMENT genre (#PCDATA)>
+<!ELEMENT directors (director+)>
+<!ELEMENT director (#PCDATA)>
+<!ELEMENT composers (composer+)>
+<!ELEMENT composer (#PCDATA)>
+<!ELEMENT cast (actor+)>
+<!ELEMENT actor (#PCDATA)>
+<!ELEMENT release_date (#PCDATA)>
+<!ELEMENT box_office (#PCDATA)>
+<!ELEMENT rating (#PCDATA)>
+<!ELEMENT viewers (#PCDATA)>
+<!ELEMENT original_language (#PCDATA)>
